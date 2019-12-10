@@ -2,3 +2,13 @@ body{
 	text-align: center;
 	font-family: 'arial', sans-serif;
 }
+.container{
+	padding: 1em;
+	border: solid 2px silver;
+	margin: 30px auto;
+	background: white;
+	text-align: left;
+}
+h1{
+	font-size: 50px;
+}
