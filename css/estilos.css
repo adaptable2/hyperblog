@@ -12,3 +12,10 @@ body{
 h1{
 	font-size: 50px;
 }
+
+.cabecera{
+	background: silver;
+	color: white;
+	padding: 1em;
+	text-align: center;
+}
